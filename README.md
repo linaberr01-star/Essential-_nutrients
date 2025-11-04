@@ -10,7 +10,7 @@ Carbo hydrates
 
 Fats
 
-Vitamins 
+Vitamins and mimerals 
 
 Conclusion 
 
