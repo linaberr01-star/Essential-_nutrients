@@ -8,15 +8,11 @@ Proteines
 
 Carbo hydrates
 
-Fats vitamins 
+Fats
 
-##  4. Vitamins & Minerals
-- Needed for strong bones, blood, and immunity.  
-- Found in fruits, vegetables, milk, meat.  
-- Important for skin, eyes, and metabolism.  
+Vitamins 
 
-##  Conclusion
-A balanced diet with all nutrients keeps the body strong and healthy. Eat different foods every day.
+Conclusion 
 
 # Colabolators 
 TIDJANI riheme
